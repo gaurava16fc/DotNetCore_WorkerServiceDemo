@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WebsiteStatus.WorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
